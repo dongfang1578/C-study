@@ -1,2 +1,4 @@
-# C-study
-C/C++语言基础编程
+C - C编程
+C++ - C++编程
+OpenCL - OpenCL编程
+CUDA - CUDA编程
